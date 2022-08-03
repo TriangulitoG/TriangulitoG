@@ -1,4 +1,4 @@
-[<p>
+<p>
   <h1 align="center"><b>Soy TriangulitoG, Que Tal</b></h1>
 </p>
 
