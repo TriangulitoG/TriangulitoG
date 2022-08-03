@@ -14,7 +14,7 @@
 
 ### Sobre mi
 - 💻 Aprendiendo Javascript y HTML
-- 🥅 2022 Metas: Back End Developer
+- 🥅 Mi futuro es ser un programador normal :)
 - 💬 Preguntame lo que quieras :smile:
 - 📬 Proyecto en curso: [Discord | DearthCraft](https://discord.gg/dearthcraft)
 - 😎 Tambien edito fotitos 🎞
