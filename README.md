@@ -16,7 +16,7 @@
 - 💻 Aprendiendo Javascript y HTML
 - 🥅 Mi futuro es ser un programador normal :)
 - 💬 Preguntame lo que quieras :smile:
-- 📬 Proyecto en curso: [Discord | DearthCraft](http://discord.dearthcraft.xyz) [Web | DearthCraft](https://www.dearthcraft.xyz)
+- 📬 Proyecto en curso: [Discord | DearthCraft](http://discord.dearthcraft.xyz) & [Web | DearthCraft](https://www.dearthcraft.xyz)
 - 😎 Tambien edito fotitos 🎞
 
 <br>
