@@ -33,6 +33,7 @@
 <img align="left" alt="Adobe Photoshop CC" width="35px" src="https://user-images.githubusercontent.com/53043542/151185770-748957dd-19af-495e-9185-a966698db64d.png" />
 
 <br>
+<br>
 
 ### Quiero Aprender
 <img align="left" alt="Angular" width="35px" src="https://github.com/angular/angular/raw/main/aio/src/assets/images/logos/angular/angular.png" />
