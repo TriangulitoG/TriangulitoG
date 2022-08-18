@@ -32,6 +32,8 @@
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Adobe Photoshop CC" width="35px" src="https://user-images.githubusercontent.com/53043542/151185770-748957dd-19af-495e-9185-a966698db64d.png" />
 
+<br>
+
 ### Quiero Aprender
 <img align="left" alt="Angular" width="35px" src="https://github.com/angular/angular/raw/main/aio/src/assets/images/logos/angular/angular.png" />
 <img align="left" alt="C#" width="35px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
