@@ -19,6 +19,8 @@
 - 📬 Proyecto en curso: Ninguno... 
 - 😎 Tambien edito fotitos 🎞
 
+Mi discord ! 𝑻𝐫𝐢𝐚𝐧𝐠𝐮𝐥𝐢𝐭𝐨𝐆 ツ#0307
+
 <br>
 
 ***
