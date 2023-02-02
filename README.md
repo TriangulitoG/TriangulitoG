@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Soy TriangulitoG, Que Tal</b></h1>
+  <h1 align="center"><b>Soy TriangulitoG</b></h1>
 </p>
 
 ***
