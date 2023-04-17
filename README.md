@@ -10,7 +10,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="[https://i.imgur.com/lAuVRoj.png](https://i.imgur.com/F3HCgRj.png)" />
+<img align="right" height="270px" alt="GIF" src="https://i.imgur.com/F3HCgRj.png" />
 
 ### Sobre mi
 - 💻 Aprendiendo Javascript y HTML
