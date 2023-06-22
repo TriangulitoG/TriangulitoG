@@ -21,12 +21,6 @@
 
 Mi discord triangulitog
 
-<br>
-
-***
-
-### Lenguajes y Herramientas: 
-
 
 
 <br>
