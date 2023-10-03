@@ -19,8 +19,7 @@
 - 📬 Proyecto en curso: Ninguno... 
 - 😎 Tambien edito fotitos 🎞
 
-Mi discord triangulitog
-
+Mi discord https://discord.triangulito.com.es/
 
 
 <br>
