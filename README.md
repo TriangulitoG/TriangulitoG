@@ -14,7 +14,7 @@
 
 ### Sobre mi
 - 💻 Aprendiendo HTML & CSS
-- 🥅 Mi futuro es ser un programador normal :)
+- 🥅 Mi futuro es ser un programador :)
 - 💬 Preguntame lo que quieras :smile:
 - 📬 Proyecto en curso: Ninguno... 
 - 😎 Tambien edito fotitos 🎞
