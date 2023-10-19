@@ -16,10 +16,10 @@
 - 💻 Aprendiendo HTML & CSS
 - 🥅 Mi futuro es ser un programador :)
 - 💬 Preguntame lo que quieras :smile:
-- 📬 Proyecto en curso: Ninguno... 
+- 📬 Proyecto en curso: http://discordhost.triangulito.com.es/ 
 - 😎 Tambien edito fotitos 🎞
 
-Mi discord https://discord.triangulito.com.es/
+Mi discord http://discord.triangulito.com.es/
 
 
 <br>
