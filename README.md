@@ -16,7 +16,7 @@
 - 💻 Aprendiendo HTML & CSS
 - 🥅 Mi futuro es ser un programador :)
 - 💬 Preguntame lo que quieras :smile:
-- 📬 Proyecto en curso: https://clientes.triangulitohost.com/ 
+- 📬 Proyecto en curso: [https://clientes.triangulitohost.com/ ](https://zentexnode.com/)
 
 Mi discord http://discord.triangulito.com.es/
 
